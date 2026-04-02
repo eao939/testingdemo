@@ -5,3 +5,5 @@ test_that("addition works correctly", {
   
 })
 
+
+# use covr::report() to see how much code coverage there is 
